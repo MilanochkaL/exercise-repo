@@ -1,3 +1,4 @@
-# Генератор списка для квадратов чисел от 1 до 10
-def generate_squares():
-    return [x2 for x in range(1,11)]
+# Создаем список с поэлементным заполнением
+def Generate():
+    return [x for x in [1, 2, 3, 4, 5]]
+>>>>>>> amazing_new_feature
